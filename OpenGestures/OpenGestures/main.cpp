@@ -11,8 +11,7 @@
  */
 
 // Background average sample code done with averages and done with codebooks
-/* 
-************************************************** */
+
 #include <opencv/cv.h>
 #include <opencv/cvaux.h>
 #include <opencv/cxmisc.h>
